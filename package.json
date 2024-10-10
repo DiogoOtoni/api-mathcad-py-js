@@ -1,0 +1,17 @@
+{
+  "name": "projeto-teste-1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "type": "module",
+  "dependencies": {
+    "pg": "^8.13.0",
+    "python-shell": "^5.0.0"
+  }
+}
